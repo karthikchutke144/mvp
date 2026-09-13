@@ -1,0 +1,4 @@
+pandas
+pillow
+pytesseract
+opencv-python
